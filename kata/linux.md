@@ -1,0 +1,1 @@
+https://linuxpuzzles.blinry.org/
