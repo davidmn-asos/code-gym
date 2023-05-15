@@ -4,13 +4,13 @@ Regional elections have come to pigment province and it's up to you to count the
 
 For example if you had a candidates
 
-Candidate A - 00 00 00
-Candidate B - FF FF FF
+- Candidate A - 00 00 00
+- Candidate B - FF FF FF
 
 And voters
 
-Voter A - 00 11 00
-Voter B - FE 22 FF
+- Voter A - 00 11 00
+- Voter B - FE 22 FF
 
 Then voter A will vote for candidate A and voter B will vote for Candidate B.
 
