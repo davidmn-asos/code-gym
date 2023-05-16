@@ -1,18 +1,34 @@
 # Colour comparison kata
 
+## Pre-Requistes
+
+An understanding of hexadecimal values and how RGB colour values are displayed is a must for this one!
+
+## Description
+
 Regional elections have come to pigment province and it's up to you to count the votes!  Voters very specific beliefs are turned into a hexadecimal RBG colour value and then a voter's vote goes to the candidates whose colour is most similar. 
 
 For example if you had a candidates
 
-Candidate A - 00 00 00
-Candidate B - FF FF FF
+- Candidate A - 00 00 00
+- Candidate B - FF FF FF
 
 And voters
 
-Voter A - 00 11 00
-Voter B - FE 22 FF
+- Voter A - 00 11 00
+- Voter B - FE 22 FF
 
 Then voter A will vote for candidate A and voter B will vote for Candidate B.
+
+## Hints
+
+
+<details>
+<summary>If you'd like to know how to turn hexadecimal into integers take a look below!</summary>
+
+A call to `Convert.ToInt32("FF", 16);` will convert a hex string to an integer.
+
+</details>
 
 ---
 
