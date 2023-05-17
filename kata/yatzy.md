@@ -1,0 +1,1 @@
+https://sammancoaching.org/kata_descriptions/yatzy.html
