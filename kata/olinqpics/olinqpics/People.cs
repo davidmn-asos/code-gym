@@ -24,7 +24,7 @@
 
         public static double AverageAge()
         {
-            return Data.Average(x => x.Age);  
+            return 0;
         }
 
 
