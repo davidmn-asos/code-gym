@@ -46,16 +46,16 @@ The other variant you might see in areas other than LINQ is the `Action<T>`.  Th
 
 Given the starting code in the solution, output the following to the console
 
-1. Return the average age of the group (average)
-2. Return a list of names (select)
-3. Return a list the names of anyone udner the age of 25 (where)
-4. Return output from exercise 3 as a comma separated string (aggregate)
-5. Return a boolean of whether the list contains anyone above a given age (any)
-6. Return the oldest age in the group (max)
-7. Return the name of the oldest person in the group (max by)
-8. The average age of the women in the group (group by)
-9. The most popular colour of the group (select many)
-10. A complete list of favourite colours with no duplicates (distinct)
+1. Return the average age of the group (Hint: Use the average function)
+2. Return a list of names (Hint: Use the select function)
+3. Return a list the names of anyone under the age of 25 (Hint: Use the where function)
+4. Return output from exercise 3 as a comma separated string (Hint: Use the aggregate function)
+5. Return a boolean of whether the list contains anyone above a given age (Hint: Use the Any function)
+6. Return the oldest age in the group (Hint: Use the Max function)
+7. Return the name of the oldest person in the group (Hint: Use the MaxBy function)
+8. The average age of each gender in the group (Hint: Use the GroupBy function)
+9. The most popular colour of the group (Hint: Use the SelectMany function)
+10. A complete list of favourite colours with no duplicates (Hint: Use the distinct function)
 
 ## Extension exercise 
 Re-write a few of the above functions without using LINQ syntax, is this code easier to read? More verbose? 
